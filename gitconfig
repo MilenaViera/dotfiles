@@ -52,3 +52,6 @@
 [user]
 	email = milenajohanna1@gmail.com
 	name = milena
+[credential "https://github.com"]
+	helper = 
+	helper = !/usr/bin/gh auth git-credential
